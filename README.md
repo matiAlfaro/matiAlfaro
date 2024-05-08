@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## Senior Staff Manager at Marvell | Networking Specialist | SONiC Enthusiast
 
-Hello, and thanks for visiting my GitHub space! I’m Mati Alfaro. My work revolves around networking, with a keen interest in the foundational layers and distributed systems. Recently, I’ve been exploring SONiC for open networking. I enjoy coding in C, C++, Python, and bash, always learning and growing in the process.
+Hello, and thanks for visiting my GitHub space! I’m Mati Alfaro. My work revolves around networking, with a keen interest in the foundational layers and distributed systems. Recently, I’ve been exploring SONiC for open networking. 
 
 ### 💬 Expertise:
 - Proficient in L1 & L2 networking features
